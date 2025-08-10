@@ -10,4 +10,4 @@ Cada *stage* será un tema concreto (por ejemplo, una función o estructura de c
 
 El objetivo es adquirir competencia profunda en cada tema antes de avanzar, manteniendo un registro estructurado y reutilizable para futuras tecnologías o lenguajes.
 
-Si quieres, puedo crearte una **descripción optimizada para GitHub** lista para poner en el `README.md`. ¿Quieres que la prepare?
+S
