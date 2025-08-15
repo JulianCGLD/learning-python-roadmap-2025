@@ -1,0 +1,1 @@
+In Python, print() is a built-in function that writes the string representation of its arguments to the standard output (stdout), typically the console. By default, print() converts each argument to a string using str(). And all of this is writed in sequence.
