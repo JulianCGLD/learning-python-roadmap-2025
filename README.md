@@ -1,4 +1,4 @@
-#learning-python-roadmap2025
+# learning-python-roadmap2025
 Daily practice repository with microprojects and progressive challenges to master Python, SQL and other technologies. Based on STAGEPROJECTS, it includes applied exercises, debugging and refactoring, ensuring deep understanding before moving on to new topics. This repository will contain a daily practice system based on STAGEPROJECTS, designed to master specific programming concepts through progressive and focused exercises.
 
 Each stage will be a specific topic (for example, a function or control structure) and will take place in a standardised format including:
