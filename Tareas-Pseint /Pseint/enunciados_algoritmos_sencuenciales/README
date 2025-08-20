@@ -1,0 +1,28 @@
+Enunciados de ejercicios:
+
+1.	Calcular el área de un rectángulo
+Escribe un algoritmo que le pida al usuario el largo y el ancho de un rectángulo, calcule su área y muestre el resultado.
+
+2.	Conversión de Celsius a Fahrenheit
+               Desarrolla un algoritmo que convierta una temperatura dada en grados Celsius a grados Fahrenheit. La fórmula de conversión es: F=(C×1.8)+32.
+
+3.	Calcular el promedio de tres notas
+                Elabora un algoritmo que pida tres notas al usuario, calcule el promedio de estas y muestre el resultado final.
+
+4.	Calcular el IVA
+               Crea un algoritmo que solicite el precio de un producto (sin IVA), calcule el 19% de IVA y muestre tanto el valor del IVA como el precio total con el impuesto.
+
+5.	Conversión de metros a centímetros y milímetros
+               Escribe un algoritmo que pida una cantidad en metros y la convierta a centímetros y milímetros, mostrando ambos resultados.
+
+6.	Calcular el salario neto de un empleado
+               Desarrolla un algoritmo que pida el salario bruto y el total de deducciones de un empleado. Luego, calcule y muestre el salario neto.
+
+7.	Intercambio de valores de dos variables
+                Crea un algoritmo que solicite dos valores, los guarde en variables y luego intercambie sus contenidos. El algoritmo debe mostrar los valores iniciales y los finales después del intercambio.
+8. Calcular el perímetro y área de un círculo Elabora un algoritmo que pida el radio de un círculo, calcule su perímetro y área, y muestre ambos resultados. Utiliza el valor de π como 3.14159. La fórmula del perímetro es 2×π×r y la del área es π×r2. 
+(9) Calcular el porcentaje de un número
+                Escribe un algoritmo que pida un número y un porcentaje, y luego calcule el valor del porcentaje de ese número. Por ejemplo, si el usuario ingresa el número 200 y el porcentaje 10, el resultado debe ser 20.
+(10) Calcular el salario básico de un empleado 
+Elabore un algoritmo que lea por pantalla el nombre de un empleado, su salario básico por hora, el número de horas trabajadas en el periodo y el porcentaje de retención en la fuente. Calcular el salario bruto, el valor de la retención y su salario neto.
+      Nota. Para calcular el valor de la retención utilice la siguiente formula: retención = (salario Bruto * porcentaje Retención) / 100

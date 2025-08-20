@@ -1,0 +1,34 @@
+Enunciados de Algoritmos Secuenciales
+Finanzas
+1. Cálculo de interés simple: Elabora un algoritmo que pida el capital inicial, la tasa de interés anual y el tiempo en años. Calcula y muestra el interés total y el monto final.
+La fórmula para calcular el interés simple es la siguiente:
+I=P⋅r⋅t
+Y la fórmula para calcular el monto final (capital más intereses) es:
+M=P+I
+2. Conversión de moneda: Crea un algoritmo que solicite una cantidad de dinero en euros y dos tasas de cambio (una para dólares y otra para yenes). Muestra el valor convertido en ambas monedas.
+3. Valor futuro de un ahorro: Diseña un algoritmo que pida un monto de ahorro mensual y el número de meses. Calcula y muestra la cantidad total ahorrada al final del periodo.
+4. Costo de la deuda: Escribe un algoritmo que pida el monto de una deuda, el porcentaje de interés mensual y la cantidad de meses. Calcula el total de intereses pagados y el monto total a devolver.
+5. Cálculo de descuento comercial: Elabora un algoritmo que pida el precio de un producto y un porcentaje de descuento. Calcula el valor del descuento y el precio final.
+6. Cálculo de salario con extras: Crea un algoritmo que pida el salario base de un empleado, el valor de un bono fijo y la cantidad de horas extras trabajadas, junto con el valor por hora extra. Calcula y muestra el salario total.
+7. Comisión de ventas: Diseña un algoritmo que solicite el total de ventas de un vendedor y el porcentaje de comisión que recibe. Calcula y muestra el valor de la comisión.
+Logística
+1. Costo total de envío: Desarrolla un algoritmo que pida el peso de un paquete, la distancia a recorrer y un costo fijo por kilómetro. Muestra el costo total del envío.
+2. Tiempo de entrega estimado: Elabora un algoritmo que solicite la distancia de un punto A a un punto B y la velocidad promedio del vehículo. Calcula y muestra el tiempo estimado de viaje en horas, minutos y segundos.
+3. Inventario y rotación: Crea un algoritmo que pida la cantidad inicial de un producto, las unidades vendidas y las unidades recibidas. Calcula y muestra la cantidad final en el inventario.
+4. Capacidad de carga de camión: Diseña un algoritmo que pida el volumen de un paquete y la capacidad de carga total de un camión. Calcula cuántos paquetes de ese tamaño caben en el camión.
+5. Cálculo de distancia entre dos puntos: Escribe un algoritmo que pida las coordenadas de dos puntos en un plano (x1, y1 y x2, y2). Calcula la distancia entre ellos usando la fórmula de la distancia y muestra el resultado.
+6. Conversión de unidades de carga: Desarrolla un algoritmo que pida una cantidad de libras y la convierta a kilogramos y a onzas.
+Sistemas de Usuarios
+1. Creación de nombre de usuario: Escribe un algoritmo que pida el nombre y apellido de una persona. Concatena las dos primeras letras del nombre y las tres últimas del apellido para crear un nombre de usuario básico.
+2. Registro de datos personales: Crea un algoritmo que pida el nombre completo, el correo electrónico y el número de teléfono de un usuario. Muestra un mensaje de confirmación que incluya todos los datos ingresados.
+3. Cálculo de caracteres en una contraseña: Desarrolla un algoritmo que solicite una contraseña y muestre el número de caracteres que contiene.
+4. Formato de fecha: Elabora un algoritmo que pida el día, mes y año de nacimiento por separado. Luego, concatena los datos y los muestra en un formato de fecha específico (ej: "Día: 21, Mes: 08, Año: 1990").
+5. Personalización de saludo: Diseña un algoritmo que pida el nombre de un usuario y la hora actual. Muestra un saludo personalizado (ej: "Hola, Juan. Son las 10:30 de la mañana").
+6. Calcular edad exacta: Crea un algoritmo que solicite la fecha de nacimiento completa (día, mes, año) y la fecha actual. Calcula y muestra la edad en años, meses y días.
+Desafíos Reales
+1. Cálculo del Índice de Masa Corporal (IMC): Diseña un algoritmo que pida el peso en kilogramos y la altura en metros. Calcula el IMC con la fórmula: 𝐼𝑀𝐶=𝑝𝑒𝑠𝑜(𝑎𝑙𝑡𝑢𝑟𝑎)2
+2. Consumo de energía en el hogar: Escribe un algoritmo que pida el consumo en vatios de un electrodoméstico y el número de horas de uso al día. Calcula el consumo diario en kilovatios-hora (kWh).
+3. Costo de un viaje por carretera: Crea un algoritmo que pida la distancia del viaje, el rendimiento del vehículo en km por galón y el precio de la gasolina por galón. Calcula y muestra el costo total del combustible para el viaje.
+4. Conversión de temperatura: Elabora un algoritmo que pida una temperatura en grados Kelvin y la convierta a grados Celsius y Fahrenheit. (Celsius = Kelvin - 273.15, Fahrenheit = 1.8 * Celsius + 32).
+5. Cálculo de la densidad de un objeto: Diseña un algoritmo que pida la masa de un objeto en gramos y su volumen en centímetros cúbicos. Calcula y muestra su densidad.
+6. Conversión de tiempo de segundos: Escribe un algoritmo que pida una cantidad de segundos y la convierta a horas, minutos y segundos.
