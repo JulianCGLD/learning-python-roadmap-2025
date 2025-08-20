@@ -1,0 +1,17 @@
+Proceso Capacidad_carga
+	Definir volumen_paquete , capacidad_total , paquetes_cargados, capacidad_faltante, objetos_faltantes Como real
+	imprimir ("Introduce la cantidad de paquetes: ")
+	leer paquetes_cargados
+	imprimir ("Dame el volumen de tus paquete")
+	leer volumen_paquete
+	imprimir ("Dame la capacidad de carga total del camion")
+	leer capacidad_total
+    capacidad_faltante <- capacidad_total - (paquetes_cargados * volumen_paquete)
+    objetos_faltantes <- Trunc(capacidad_faltante / volumen_paquete)
+	Si objetos_faltantes > 0 Entonces
+        Imprimir "Todavía puedes meter ", objetos_faltantes, " objetos más en el camión."
+    SiNo
+        Imprimir "El camión ya está lleno o sobrecargado."
+    FinSi
+FinProceso
+	
