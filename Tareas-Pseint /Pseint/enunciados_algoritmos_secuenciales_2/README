@@ -1,4 +1,5 @@
-Enunciados de Algoritmos Secuenciales
+Profesor, disculpe que empece en el número 11. Tenia los archivos de algoritmos_secuenciales_1 en la misma carpeta así que para evitar perder tiempo lo subí así.
+Enunciados de Algoritmos Secuenciales 
 Finanzas
 1. Cálculo de interés simple: Elabora un algoritmo que pida el capital inicial, la tasa de interés anual y el tiempo en años. Calcula y muestra el interés total y el monto final.
 La fórmula para calcular el interés simple es la siguiente:
